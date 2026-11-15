@@ -23,8 +23,8 @@
   ],
   "trading_observations": 1255,
   "annualization_factor": 252,
-  "stock_data_retrieved_at": "2026-11-14T21:32:03.287831+00:00",
-  "risk_free_data_retrieved_at": "2026-11-14T21:32:04.954442+00:00",
-  "sector_data_retrieved_at": "2026-11-14T21:32:12.389199+00:00",
-  "risk_free_source": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_daily_CSV.zip"
+  "stock_data_retrieved_at": "2026-11-15T04:08:16.440049+00:00",
+  "risk_free_data_retrieved_at": "2026-11-15T04:08:16.923228+00:00",
+  "sector_data_retrieved_at": "2026-11-15T04:08:23.247786+00:00",
+  "risk_free_source": "https://raw.githubusercontent.com/Peez49/Informed-Trading/683cd6213d8b9d24b857c167ecd308e758e39c96/F-F_Research_Data_Factors_daily.csv"
 }

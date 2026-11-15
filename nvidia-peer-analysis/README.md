@@ -72,7 +72,7 @@ Percentage-based measures in the CSV files are decimals: `0.7030` represents app
 
 ## Running the notebook
 
-The notebook was developed in Google Colab.
+The saved analysis was run from top to bottom in Google Colab using Python 3.13.18.
 
 1. Download `NVIDIA_Peer_Risk_Return_Analysis.ipynb` and open it in Google Colab.
 2. Connect to a runtime and run the cells from top to bottom. Internet access is required to download prices and the risk-free series.
@@ -81,7 +81,7 @@ The notebook was developed in Google Colab.
 
 The export ZIP created by the notebook contains analysis outputs and metadata; it does not automatically include this README or the notebook itself.
 
-For local Jupyter use, install the packages in `requirements.txt` in a compatible Python environment and install Jupyter separately. Skip the final cell that imports `google.colab` and downloads the archive; the other export cells save files locally. The recorded requirements describe the analysis environment rather than a complete dependency lockfile.
+To run the notebook locally, open a terminal in the `nvidia-peer-analysis` folder and run `python -m pip install -r requirements.txt jupyterlab`. Start JupyterLab with `jupyter lab`, open `NVIDIA_Peer_Risk_Return_Analysis.ipynb`, and run all cells in order. The export cells save the figures, tables, metadata, and ZIP archive locally. In Colab, the final cell also starts the ZIP download.
 
 Saved outputs document the submitted analysis. A fresh download may produce different results because providers can revise adjusted prices and factor data, and Colab's environment can change. Raw source data are not bundled with this project.
 

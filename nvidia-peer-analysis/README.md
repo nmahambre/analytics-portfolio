@@ -89,7 +89,7 @@ Saved outputs document the submitted analysis. A fresh download may produce diff
 
 - The five-year period and retrospectively selected stocks limit generalization and may introduce selection and survivorship bias. The companies also have different business mixes.
 - Historical returns do not establish future performance. The analysis does not assess valuation, earnings expectations, or company fundamentals.
-- NVIDIA’s annualized Sharpe ratio exceeded Broadcom’s by 0.057 over 2021–2025. The 95% confidence interval from a paired block bootstrap ranged from −0.645 to 0.769. Because the interval includes zero, the data are consistent with either stock having the higher risk-adjusted return.
+- NVIDIA’s annualized Sharpe ratio exceeded Broadcom’s by 0.057 over 2021–2025. The 95% confidence interval from a paired block bootstrap ranged from −0.645 to 0.769. Because the interval includes zero, the data are consistent with either stock having the higher risk-adjusted return. [View the bootstrap results (CSV)](results/sharpe_gap_bootstrap.csv).
 - Beta and tracking error depend on benchmark selection. SOXX overlaps with the selected stocks, and its holdings and weights can change.
 - Risk-free proxy choice, rounded daily RF observations, and square-root-of-time annualization affect estimates. Rolling windows overlap and are not independent observations.
 - Investor taxes and transaction costs are excluded. ETF market-price returns reflect fund-level effects, including embedded expenses.

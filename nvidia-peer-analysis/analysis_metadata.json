@@ -23,8 +23,8 @@
   ],
   "trading_observations": 1255,
   "annualization_factor": 252,
-  "stock_data_retrieved_at": "2026-11-15T04:08:16.440049+00:00",
-  "risk_free_data_retrieved_at": "2026-11-15T04:08:16.923228+00:00",
-  "sector_data_retrieved_at": "2026-11-15T04:08:23.247786+00:00",
+  "stock_data_retrieved_at": "2026-11-16T06:31:27.788602+00:00",
+  "risk_free_data_retrieved_at": "2026-11-16T06:31:29.883977+00:00",
+  "sector_data_retrieved_at": "2026-11-16T06:31:38.972831+00:00",
   "risk_free_source": "https://raw.githubusercontent.com/Peez49/Informed-Trading/683cd6213d8b9d24b857c167ecd308e758e39c96/F-F_Research_Data_Factors_daily.csv"
 }

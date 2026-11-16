@@ -1,2 +1,2 @@
 comparison,observed_sharpe_gap,ci_95_lower,ci_95_upper,trading_days,block_days,bootstrap_samples,method
-NVDA minus AVGO,0.0570648229,-0.6451937688,0.7685983907,1255,20,5000,paired circular block bootstrap
+NVDA minus AVGO,0.0570648197,-0.6451941974,0.7685979442,1255,20,5000,paired circular block bootstrap
